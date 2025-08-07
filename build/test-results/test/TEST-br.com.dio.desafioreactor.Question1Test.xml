@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.dio.desafioreactor.Question1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-20T15:57:33" hostname="MacBook-Pro-de-Jose.local" time="0.04">
+<testsuite name="br.com.dio.desafioreactor.Question1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-07T19:36:19" hostname="fkamag-IdeaPad-3-15IML05" time="0.153">
   <properties/>
-  <testcase name="incTest()" classname="br.com.dio.desafioreactor.Question1Test" time="0.04"/>
+  <testcase name="incTest()" classname="br.com.dio.desafioreactor.Question1Test" time="0.153"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
